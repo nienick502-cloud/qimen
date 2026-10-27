@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" fill="none">
+<g stroke="#D4AF37" stroke-width="1" fill="none">
+<g id="ring-outer">
+<circle cx="600" cy="600" r="570"/>
+<circle cx="600" cy="600" r="520"/>
+<circle cx="600" cy="600" r="545" stroke-width="0.5" opacity="0.4"/>
+<line x1="600.0" y1="74.0" x2="600.0" y2="36.0" stroke-width="1.4"/>
+<line x1="647.2" y1="60.1" x2="647.8" y2="54.1" stroke-width="0.5" opacity="0.45"/>
+<line x1="694.1" y1="66.2" x2="695.2" y2="60.3" stroke-width="0.5" opacity="0.45"/>
+<line x1="737.7" y1="86.1" x2="744.4" y2="61.0" stroke-width="0.8"/>
+<line x1="785.4" y1="90.7" x2="787.4" y2="85.0" stroke-width="0.5" opacity="0.45"/>
+<line x1="829.1" y1="108.8" x2="831.6" y2="103.3" stroke-width="0.5" opacity="0.45"/>
+<line x1="866.0" y1="139.3" x2="879.0" y2="116.8" stroke-width="0.8"/>
+<line x1="910.9" y1="156.0" x2="914.3" y2="151.1" stroke-width="0.5" opacity="0.45"/>
+<line x1="948.4" y1="184.8" x2="952.2" y2="180.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="971.9" y1="228.1" x2="998.8" y2="201.2" stroke-width="1.4"/>
+<line x1="1015.2" y1="251.6" x2="1019.8" y2="247.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="1044.0" y1="289.1" x2="1048.9" y2="285.7" stroke-width="0.5" opacity="0.45"/>
+<line x1="1060.7" y1="334.0" x2="1083.2" y2="321.0" stroke-width="0.8"/>
+<line x1="1091.2" y1="370.9" x2="1096.7" y2="368.4" stroke-width="0.5" opacity="0.45"/>
+<line x1="1109.3" y1="414.6" x2="1115.0" y2="412.6" stroke-width="0.5" opacity="0.45"/>
+<line x1="1113.9" y1="462.3" x2="1139.0" y2="455.6" stroke-width="0.8"/>
+<line x1="1133.8" y1="505.9" x2="1139.7" y2="504.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="1139.9" y1="552.8" x2="1145.9" y2="552.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="1126.0" y1="600.0" x2="1164.0" y2="600.0" stroke-width="1.4"/>
+<line x1="1139.9" y1="647.2" x2="1145.9" y2="647.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="1133.8" y1="694.1" x2="1139.7" y2="695.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="1113.9" y1="737.7" x2="1139.0" y2="744.4" stroke-width="0.8"/>
+<line x1="1109.3" y1="785.4" x2="1115.0" y2="787.4" stroke-width="0.5" opacity="0.45"/>
+<line x1="1091.2" y1="829.1" x2="1096.7" y2="831.6" stroke-width="0.5" opacity="0.45"/>
+<line x1="1060.7" y1="866.0" x2="1083.2" y2="879.0" stroke-width="0.8"/>
+<line x1="1044.0" y1="910.9" x2="1048.9" y2="914.3" stroke-width="0.5" opacity="0.45"/>
+<line x1="1015.2" y1="948.4" x2="1019.8" y2="952.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="971.9" y1="971.9" x2="998.8" y2="998.8" stroke-width="1.4"/>
+<line x1="948.4" y1="1015.2" x2="952.2" y2="1019.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="910.9" y1="1044.0" x2="914.3" y2="1048.9" stroke-width="0.5" opacity="0.45"/>
+<line x1="866.0" y1="1060.7" x2="879.0" y2="1083.2" stroke-width="0.8"/>
+<line x1="829.1" y1="1091.2" x2="831.6" y2="1096.7" stroke-width="0.5" opacity="0.45"/>
+<line x1="785.4" y1="1109.3" x2="787.4" y2="1115.0" stroke-width="0.5" opacity="0.45"/>
+<line x1="737.7" y1="1113.9" x2="744.4" y2="1139.0" stroke-width="0.8"/>
+<line x1="694.1" y1="1133.8" x2="695.2" y2="1139.7" stroke-width="0.5" opacity="0.45"/>
+<line x1="647.2" y1="1139.9" x2="647.8" y2="1145.9" stroke-width="0.5" opacity="0.45"/>
+<line x1="600.0" y1="1126.0" x2="600.0" y2="1164.0" stroke-width="1.4"/>
+<line x1="552.8" y1="1139.9" x2="552.2" y2="1145.9" stroke-width="0.5" opacity="0.45"/>
+<line x1="505.9" y1="1133.8" x2="504.8" y2="1139.7" stroke-width="0.5" opacity="0.45"/>
+<line x1="462.3" y1="1113.9" x2="455.6" y2="1139.0" stroke-width="0.8"/>
+<line x1="414.6" y1="1109.3" x2="412.6" y2="1115.0" stroke-width="0.5" opacity="0.45"/>
+<line x1="370.9" y1="1091.2" x2="368.4" y2="1096.7" stroke-width="0.5" opacity="0.45"/>
+<line x1="334.0" y1="1060.7" x2="321.0" y2="1083.2" stroke-width="0.8"/>
+<line x1="289.1" y1="1044.0" x2="285.7" y2="1048.9" stroke-width="0.5" opacity="0.45"/>
+<line x1="251.6" y1="1015.2" x2="247.8" y2="1019.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="228.1" y1="971.9" x2="201.2" y2="998.8" stroke-width="1.4"/>
+<line x1="184.8" y1="948.4" x2="180.2" y2="952.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="156.0" y1="910.9" x2="151.1" y2="914.3" stroke-width="0.5" opacity="0.45"/>
+<line x1="139.3" y1="866.0" x2="116.8" y2="879.0" stroke-width="0.8"/>
+<line x1="108.8" y1="829.1" x2="103.3" y2="831.6" stroke-width="0.5" opacity="0.45"/>
+<line x1="90.7" y1="785.4" x2="85.0" y2="787.4" stroke-width="0.5" opacity="0.45"/>
+<line x1="86.1" y1="737.7" x2="61.0" y2="744.4" stroke-width="0.8"/>
+<line x1="66.2" y1="694.1" x2="60.3" y2="695.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="60.1" y1="647.2" x2="54.1" y2="647.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="74.0" y1="600.0" x2="36.0" y2="600.0" stroke-width="1.4"/>
+<line x1="60.1" y1="552.8" x2="54.1" y2="552.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="66.2" y1="505.9" x2="60.3" y2="504.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="86.1" y1="462.3" x2="61.0" y2="455.6" stroke-width="0.8"/>
+<line x1="90.7" y1="414.6" x2="85.0" y2="412.6" stroke-width="0.5" opacity="0.45"/>
+<line x1="108.8" y1="370.9" x2="103.3" y2="368.4" stroke-width="0.5" opacity="0.45"/>
+<line x1="139.3" y1="334.0" x2="116.8" y2="321.0" stroke-width="0.8"/>
+<line x1="156.0" y1="289.1" x2="151.1" y2="285.7" stroke-width="0.5" opacity="0.45"/>
+<line x1="184.8" y1="251.6" x2="180.2" y2="247.8" stroke-width="0.5" opacity="0.45"/>
+<line x1="228.1" y1="228.1" x2="201.2" y2="201.2" stroke-width="1.4"/>
+<line x1="251.6" y1="184.8" x2="247.8" y2="180.2" stroke-width="0.5" opacity="0.45"/>
+<line x1="289.1" y1="156.0" x2="285.7" y2="151.1" stroke-width="0.5" opacity="0.45"/>
+<line x1="334.0" y1="139.3" x2="321.0" y2="116.8" stroke-width="0.8"/>
+<line x1="370.9" y1="108.8" x2="368.4" y2="103.3" stroke-width="0.5" opacity="0.45"/>
+<line x1="414.6" y1="90.7" x2="412.6" y2="85.0" stroke-width="0.5" opacity="0.45"/>
+<line x1="462.3" y1="86.1" x2="455.6" y2="61.0" stroke-width="0.8"/>
+<line x1="505.9" y1="66.2" x2="504.8" y2="60.3" stroke-width="0.5" opacity="0.45"/>
+<line x1="552.8" y1="60.1" x2="552.2" y2="54.1" stroke-width="0.5" opacity="0.45"/>
+</g>
+<g id="ring-mid">
+<circle cx="600" cy="600" r="500"/>
+<circle cx="600" cy="600" r="420"/>
+<line x1="574.0" y1="128.0" x2="626.0" y2="128.0" stroke-width="2.5"/>
+<line x1="574.0" y1="140.0" x2="626.0" y2="140.0" stroke-width="2.5"/>
+<line x1="574.0" y1="152.0" x2="626.0" y2="152.0" stroke-width="2.5"/>
+<line x1="763.8" y1="204.6" x2="788.3" y2="145.5" stroke-width="0.6" opacity="0.5"/>
+<line x1="915.4" y1="247.9" x2="928.1" y2="260.6" stroke-width="2.5"/>
+<line x1="939.4" y1="271.9" x2="952.1" y2="284.6" stroke-width="2.5"/>
+<line x1="906.9" y1="256.3" x2="943.7" y2="293.1" stroke-width="2.5"/>
+<line x1="898.4" y1="264.8" x2="935.2" y2="301.6" stroke-width="2.5"/>
+<line x1="995.4" y1="436.2" x2="1054.5" y2="411.7" stroke-width="0.6" opacity="0.5"/>
+<line x1="1072.0" y1="574.0" x2="1072.0" y2="626.0" stroke-width="2.5"/>
+<line x1="1060.0" y1="574.0" x2="1060.0" y2="592.0" stroke-width="2.5"/>
+<line x1="1060.0" y1="608.0" x2="1060.0" y2="626.0" stroke-width="2.5"/>
+<line x1="1048.0" y1="574.0" x2="1048.0" y2="626.0" stroke-width="2.5"/>
+<line x1="995.4" y1="763.8" x2="1054.5" y2="788.3" stroke-width="0.6" opacity="0.5"/>
+<line x1="952.1" y1="915.4" x2="939.4" y2="928.1" stroke-width="2.5"/>
+<line x1="928.1" y1="939.4" x2="915.4" y2="952.1" stroke-width="2.5"/>
+<line x1="943.7" y1="906.9" x2="930.9" y2="919.6" stroke-width="2.5"/>
+<line x1="919.6" y1="930.9" x2="906.9" y2="943.7" stroke-width="2.5"/>
+<line x1="935.2" y1="898.4" x2="898.4" y2="935.2" stroke-width="2.5"/>
+<line x1="763.8" y1="995.4" x2="788.3" y2="1054.5" stroke-width="0.6" opacity="0.5"/>
+<line x1="626.0" y1="1072.0" x2="574.0" y2="1072.0" stroke-width="2.5"/>
+<line x1="626.0" y1="1060.0" x2="574.0" y2="1060.0" stroke-width="2.5"/>
+<line x1="626.0" y1="1048.0" x2="608.0" y2="1048.0" stroke-width="2.5"/>
+<line x1="592.0" y1="1048.0" x2="574.0" y2="1048.0" stroke-width="2.5"/>
+<line x1="436.2" y1="995.4" x2="411.7" y2="1054.5" stroke-width="0.6" opacity="0.5"/>
+<line x1="284.6" y1="952.1" x2="271.9" y2="939.4" stroke-width="2.5"/>
+<line x1="260.6" y1="928.1" x2="247.9" y2="915.4" stroke-width="2.5"/>
+<line x1="293.1" y1="943.7" x2="256.3" y2="906.9" stroke-width="2.5"/>
+<line x1="301.6" y1="935.2" x2="288.9" y2="922.4" stroke-width="2.5"/>
+<line x1="277.6" y1="911.1" x2="264.8" y2="898.4" stroke-width="2.5"/>
+<line x1="204.6" y1="763.8" x2="145.5" y2="788.3" stroke-width="0.6" opacity="0.5"/>
+<line x1="128.0" y1="626.0" x2="128.0" y2="574.0" stroke-width="2.5"/>
+<line x1="140.0" y1="626.0" x2="140.0" y2="608.0" stroke-width="2.5"/>
+<line x1="140.0" y1="592.0" x2="140.0" y2="574.0" stroke-width="2.5"/>
+<line x1="152.0" y1="626.0" x2="152.0" y2="608.0" stroke-width="2.5"/>
+<line x1="152.0" y1="592.0" x2="152.0" y2="574.0" stroke-width="2.5"/>
+<line x1="204.6" y1="436.2" x2="145.5" y2="411.7" stroke-width="0.6" opacity="0.5"/>
+<line x1="247.9" y1="284.6" x2="260.6" y2="271.9" stroke-width="2.5"/>
+<line x1="271.9" y1="260.6" x2="284.6" y2="247.9" stroke-width="2.5"/>
+<line x1="256.3" y1="293.1" x2="269.1" y2="280.4" stroke-width="2.5"/>
+<line x1="280.4" y1="269.1" x2="293.1" y2="256.3" stroke-width="2.5"/>
+<line x1="264.8" y1="301.6" x2="277.6" y2="288.9" stroke-width="2.5"/>
+<line x1="288.9" y1="277.6" x2="301.6" y2="264.8" stroke-width="2.5"/>
+<line x1="436.2" y1="204.6" x2="411.7" y2="145.5" stroke-width="0.6" opacity="0.5"/>
+</g>
+<g id="ring-inner">
+<circle cx="600" cy="600" r="400"/>
+<circle cx="600" cy="600" r="330"/>
+<line x1="513.0" y1="275.4" x2="498.0" y2="219.4" stroke-width="0.8"/>
+<text x="600.0" y="235.0" transform="rotate(0 600.0 235.0)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">子</text>
+<line x1="687.0" y1="275.4" x2="702.0" y2="219.4" stroke-width="0.8"/>
+<text x="782.5" y="283.9" transform="rotate(30 782.5 283.9)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">丑</text>
+<line x1="837.6" y1="362.4" x2="878.6" y2="321.4" stroke-width="0.8"/>
+<text x="916.1" y="417.5" transform="rotate(60 916.1 417.5)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">寅</text>
+<line x1="924.6" y1="513.0" x2="980.6" y2="498.0" stroke-width="0.8"/>
+<text x="965.0" y="600.0" transform="rotate(90 965.0 600.0)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">卯</text>
+<line x1="924.6" y1="687.0" x2="980.6" y2="702.0" stroke-width="0.8"/>
+<text x="916.1" y="782.5" transform="rotate(120 916.1 782.5)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">辰</text>
+<line x1="837.6" y1="837.6" x2="878.6" y2="878.6" stroke-width="0.8"/>
+<text x="782.5" y="916.1" transform="rotate(150 782.5 916.1)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">巳</text>
+<line x1="687.0" y1="924.6" x2="702.0" y2="980.6" stroke-width="0.8"/>
+<text x="600.0" y="965.0" transform="rotate(180 600.0 965.0)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">午</text>
+<line x1="513.0" y1="924.6" x2="498.0" y2="980.6" stroke-width="0.8"/>
+<text x="417.5" y="916.1" transform="rotate(210 417.5 916.1)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">未</text>
+<line x1="362.4" y1="837.6" x2="321.4" y2="878.6" stroke-width="0.8"/>
+<text x="283.9" y="782.5" transform="rotate(240 283.9 782.5)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">申</text>
+<line x1="275.4" y1="687.0" x2="219.4" y2="702.0" stroke-width="0.8"/>
+<text x="235.0" y="600.0" transform="rotate(270 235.0 600.0)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">酉</text>
+<line x1="275.4" y1="513.0" x2="219.4" y2="498.0" stroke-width="0.8"/>
+<text x="283.9" y="417.5" transform="rotate(300 283.9 417.5)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">戌</text>
+<line x1="362.4" y1="362.4" x2="321.4" y2="321.4" stroke-width="0.8"/>
+<text x="417.5" y="283.9" transform="rotate(330 417.5 283.9)" fill="#D4AF37" stroke="none" font-family="'Noto Serif SC', serif" font-size="34" text-anchor="middle" dominant-baseline="central" opacity="0.9">亥</text>
+</g>
+</g></svg>

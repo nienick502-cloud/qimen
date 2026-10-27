@@ -1,0 +1,9 @@
+.runtime/
+models/*
+!models/duanyu-lora-f16.gguf
+!models/README.md
+*.part
+*.invalid-*
+*.log
+Thumbs.db
+Desktop.ini

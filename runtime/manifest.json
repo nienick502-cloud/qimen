@@ -1,0 +1,42 @@
+{
+  "version": "2026.10.27",
+  "port": 8317,
+  "runtime": {
+    "file": "runtime/llama-vulkan.zip",
+    "version": "llama.cpp b10227 (f5919bf45)",
+    "source": "https://github.com/ggml-org/llama.cpp/tree/f5919bf45",
+    "sha256": "f6aeab1674c445d54b59d8ae5f7be581ebdae2aac74e523234d057386ae54184"
+  },
+  "adapter": {
+    "file": "models/duanyu-lora-f16.gguf",
+    "size": 80767712,
+    "sha256": "098ddb98a8851b257b7a33fd2435dcd44956edb02d1035614af313bf21631892"
+  },
+  "mergedModel": {
+    "file": "models/qwen2.5-7b-instruct-q4_k_m.gguf",
+    "size": 4683073536,
+    "sha256": "7376371b5fb12633c2d9fd4805c8312538072a59c1929db40c7d95794becab76"
+  },
+  "modelFiles": [
+    {
+      "file": "models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+      "size": 3993201344,
+      "sha256": "dfce12e3862a5283ccfb88221b48480e58745165de856439950d0f22590580db",
+      "urls": [
+        "https://modelscope.cn/models/Qwen/Qwen2.5-7B-Instruct-GGUF/resolve/a6df5b898bfd48f46cbc7ec856fba0c4b9d0a34c/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+        "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-GGUF/resolve/bb5d59e06d9551d752d08b292a50eb208b07ab1f/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf"
+      ]
+    },
+    {
+      "file": "models/qwen2.5-7b-instruct-q4_k_m-00002-of-00002.gguf",
+      "size": 689872288,
+      "sha256": "539cf93f78e887edea1c04e2d7d8cdaca9d01dae9c9025bcb8accbe29df3d72a",
+      "urls": [
+        "https://modelscope.cn/models/Qwen/Qwen2.5-7B-Instruct-GGUF/resolve/a6df5b898bfd48f46cbc7ec856fba0c4b9d0a34c/qwen2.5-7b-instruct-q4_k_m-00002-of-00002.gguf",
+        "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-GGUF/resolve/bb5d59e06d9551d752d08b292a50eb208b07ab1f/qwen2.5-7b-instruct-q4_k_m-00002-of-00002.gguf"
+      ]
+    }
+  ],
+  "webSha256": "d29c2e34b4ec7588d56c5ead3f78fb4ba90002b7ce342aff0c20ecdf5a33a436",
+  "vcRuntimeUrl": "https://aka.ms/vs/17/release/vc_redist.x64.exe"
+}
