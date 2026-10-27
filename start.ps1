@@ -197,7 +197,7 @@ function Open-Page {
 function Start-Server([string]$Exe, [string]$Model, [string]$Adapter, [string]$Web, [int]$Layers) {
     $Out = Join-Path $Work 'server.stdout.log'
     $Err = Join-Path $Work 'server.stderr.log'
-    $Arguments = @('--model', $Model, '--lora', $Adapter, '--host', '127.0.0.1', '--port', '8317', '--path', $Web, '--ctx-size', '4096', '-np', '1', '-ngl', $Layers.ToString(), '--cors-origins', $ServerUrl)
+    $Arguments = @('--model', $Model, '--lora', $Adapter, '--host', '127.0.0.1', '--port', '8317', '--path', $Web, '--ctx-size', '4096', '--batch-size', '128', '--ubatch-size', '128', '-np', '1', '-ngl', $Layers.ToString(), '--cors-origins', $ServerUrl)
     $ArgumentLine = ($Arguments | ForEach-Object { Quoted $_ }) -join ' '
     $script:StartedProcess = Start-Process -FilePath $Exe -ArgumentList $ArgumentLine -WorkingDirectory $Root -WindowStyle Hidden -RedirectStandardOutput $Out -RedirectStandardError $Err -PassThru
     $script:StartedProcess.Handle | Out-Null
